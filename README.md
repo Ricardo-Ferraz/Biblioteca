@@ -8,4 +8,4 @@ Esse sistema permite ao usuário, seja ele aluno, ou professor, ou uma pessoa qu
 - Devolver um título alugado;
 - Ver o hórario atual;
 
-![alt text](https://i.imgur.com/Kc8ocIU.png)
+![alt text= 200x200](https://i.imgur.com/Kc8ocIU.png)
