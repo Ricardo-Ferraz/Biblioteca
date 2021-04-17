@@ -8,4 +8,17 @@ Esse sistema permite ao usuário, seja ele aluno, ou professor, ou uma pessoa qu
 - Devolver um título alugado;
 - Ver o hórario atual;
 
-![alt text= 200x200](https://i.imgur.com/Kc8ocIU.png)
+<img src="https://i.imgur.com/Kc8ocIU.png" width="300">
+
+
+O sistema, também, permite que um funcionário escolhido pela biblioteca entre como Administrador usando um Usuário e uma Senha, assim abrindo outra janela permitindo que ele:
+- Cadastrar Aluno;
+- Cadastrar Professores;
+- Cadastrar Pessoas;
+- Cadastrar Livros;
+- Exibir todos cadastrados na biblioteca, seja aluno, professor ou pessoa;
+
+
+<img src="https://i.imgur.com/AYaRKRc.png" width="300">
+
+Obs: Apenas para fins didáticos, o usuário e senha são, ambos, "admin" (sem as aspas), porém podem ser alterados.
